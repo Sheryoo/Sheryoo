@@ -14,13 +14,14 @@
 ## 🚀 Languages & Tools: 
 
 <p align="left"> 
- <a alt="Node.js" width="45" height="10" src="/static/images/logo.svg"></a>
+ <a href="https://nodejs.org/en" target="_blank"><img alt="Node.js" width="80" height="45" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"/></a>
+ <a href="https://www.npmjs.com/" target="_blank"><img alt="Npm.js" width="80" height="45" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg"/></a>
+ <a href="https://expressjs.com/" target="_blank"><img alt="Express.js" width="80" height="45" src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Express%2C_Inc._logo.svg"/></a>
+ <a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" width="80" height="60" src="https://www.strongdm.com/hubfs/21126185/Technology%20Images/603c5eb831820c3ce6a8f057_603a1586fa052d17fc2a6929_MongoDBAtlas.png"/></a>
  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/></a>
  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
  <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/></a>
  <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/></a> 
- <a style="padding-right:8px;" href="https://ubuntu.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/></a>
- <a style="padding-right:8px;" href="https://numpy.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/numpy.png"/></a>
   <a style="padding-right:8px;" href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html.png"/></a>
 
    <a style="padding-right:8px;" href="#" target="_blank"> 
