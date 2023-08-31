@@ -9,6 +9,7 @@
 ## 🙋‍♂️ About me
 
 🌱 I'm currently trying to improve myself in Javascript by solving problems on LeetCode, reading docs, and more 🐍 💪
+🌱 BackEnd Developing Using Node.js🐍 💪
 
 ## 🚀 Languages & Tools: 
 
