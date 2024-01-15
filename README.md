@@ -28,22 +28,18 @@
  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
  <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/></a>
  <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/></a> 
-  <a style="padding-right:8px;" href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html.png"/></a>
-  <a href="https://react.dev/" target="_blank"><img alt="React.js" width="80" height="45" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"/></a>
-  <a href="https://getbootstrap.com/" target="_blank"><img alt="Bootstrap" width="80" height="45" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img alt="Tailwind Css" width="80" height="45" src="https://mwop.net/images/tailwindcss.svg"/></a>
-
-   <a href="https://www.javascript.com/" style="padding-right:8px;" href="#" target="_blank"> 
- <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></a>
-
-   <a style="padding-right:8px;" href="#" target="_blank"> 
- <img src="https://img.icons8.com/nolan/64/css-filetype.png"/></a>
+ <a style="padding-right:8px;" href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html.png"/></a>
+ <a href="https://react.dev/" target="_blank"><img alt="React.js" width="80" height="45" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"/></a>
+ <a href="https://getbootstrap.com/" target="_blank"><img alt="Bootstrap" width="80" height="45" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png"/></a>
+ <a href="https://tailwindcss.com/" target="_blank"><img alt="Tailwind Css" width="80" height="45" src="https://mwop.net/images/tailwindcss.svg"/></a>
+ <a href="https://www.javascript.com/" style="padding-right:8px;" href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></a>
+ <a style="padding-right:8px;" href="#" target="_blank"><img src="https://img.icons8.com/nolan/64/css-filetype.png"/></a>
 
 
 </p>
 
 ## Find me at:
 <p align="left">
-
-<a href = "https://www.linkedin.com/in/sherif-shaaban-377217224/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> &nbsp; &nbsp;
+ <a href = "https://www.linkedin.com/in/sherif-shaaban-377217224/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> &nbsp; &nbsp;
+ <a href = "https://linktr.ee/Sheryoo" target="_blank"><img width="90" height="55" alt="My Linktree" src="https://upload.wikimedia.org/wikipedia/en/b/bf/Linktree_logo.svg"/></a> &nbsp; &nbsp;
 </p>
