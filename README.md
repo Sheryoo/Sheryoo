@@ -44,17 +44,24 @@
  <a href="https://www.javascript.com/" style="padding-right:8px;" href="#" target="_blank"> <img src="https://techstack-generator.vercel.app/js-icon.svg" width="80" height="80"/></a>
  <a href="https://www.typescript.com/" style="padding-right:8px;" href="#" target="_blank"> <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="80" height="80"/></a>
  <a href="https://www.python.org" target="_blank"> <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" height="60"/></a>
+ <a href="https://nodejs.org/en" target="_blank"><img alt="Node.js" width="55" height="55" src="https://skillicons.dev/icons?i=nodejs"/></a>
+ <a href="https://www.npmjs.com/" target="_blank"><img alt="Npm" width="55" height="55" src="https://skillicons.dev/icons?i=npm"/></a>
+ <a href="https://yarnpkg.com/" target="_blank"><img alt="Yarn" width="55" height="55" src="https://skillicons.dev/icons?i=yarn"/></a>
+ <a href="https://expressjs.com/" target="_blank"><img alt="Express.js" width="55" height="55" src="https://skillicons.dev/icons?i=express"/></a>
+ <a href="https://strapi.io" target="_blank"><img alt="Strapi.io" width="80" height="65" src="https://strapi.io/assets/strapi-logo-light.svg"/></a>
+ <a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" width="55" height="55" src="https://skillicons.dev/icons?i=mongodb"/></a>
+ <a href="https://sequelize.org/" target="_blank"><img alt="Squelize" width="55" height="55" src="https://skillicons.dev/icons?i=sequelize"/></a>
  <a href="https://www.docker.com/" target="_blank"> <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="60" height="60" /></a>
- <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://techstack-generator.vercel.app/django-icon.svg" width="60" height="60"/></a>
- <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="80" height="80"/></a> 
  <a href="https://react.dev/" target="_blank"><img alt="React.js" width="60" height="60" src="https://techstack-generator.vercel.app/react-icon.svg"/></a>
  <a href="https://prettier.io/" target="_blank"><img alt="Prettier" src="https://techstack-generator.vercel.app/prettier-icon.svg" width="60" height="60" /></a>
  <a href="https://github.com/" target="_blank"><img alt="Github" src="https://techstack-generator.vercel.app/github-icon.svg" width="60" height="60" /></a>
  <a href="https://restfulapi.net/" target="_blank"><img alt="RestAPI" src="https://techstack-generator.vercel.app/restapi-icon.svg" width="80" height="80" /></a>
  <a href="https://graphql.org/" target="_blank"><img alt="GraphQL" src="https://techstack-generator.vercel.app/graphql-icon.svg" width="60" height="60" /></a>
- <a href="https://nodejs.org/en" target="_blank"><img alt="Node.js" width="55" height="55" src="https://skillicons.dev/icons?i=nodejs"/></a>
- <a href="https://expressjs.com/" target="_blank"><img alt="Express.js" width="55" height="55" src="https://skillicons.dev/icons?i=express"/></a>
- <a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" width="55" height="55" src="https://skillicons.dev/icons?i=mongodb"/></a>
+ <a href="https://www.postgresql.org/" target="_blank"><img alt="Postgresql" width="60" height="60" <img src="https://skillicons.dev/icons?i=postgres"/></a>
+ <a href="https://www.sqlite.org/" target="_blank"><img alt="Sqlite" width="60" height="60" <img src="https://skillicons.dev/icons?i=sqlite"/></a>
+ <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="80" height="80"/></a> 
+ <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://techstack-generator.vercel.app/django-icon.svg" width="60" height="60"/></a>
+ <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"><img alt="Flask" width="60" height="60" <img src="https://skillicons.dev/icons?i=flask"/></a>
  <a style="padding-right:8px;" href="#" target="_blank"> <img width="55" height="55" src="https://skillicons.dev/icons?i=html"/></a>
  <a style="padding-right:8px;" href="#" target="_blank"><img width="55" height="55" src="https://skillicons.dev/icons?i=css"/></a>
  <a href="https://getbootstrap.com/" target="_blank"><img alt="Bootstrap" width="55" height="55" src="https://skillicons.dev/icons?i=bootstrap"/></a>
@@ -63,7 +70,7 @@
  <a href="https://postman.com" target="_blank"><img alt="Postman" width="55" height="55" src="https://skillicons.dev/icons?i=postman"/></a>
  <a href="https://gitlab" target="_blank"><img alt="Gitlab" width="55" height="55" src="https://skillicons.dev/icons?i=gitlab"/></a>
  <a href="https://git-scm.com/" target="_blank"><img alt="Git" width="55" height="55" src="https://skillicons.dev/icons?i=git"/></a>
- <a href="https://strapi.io" target="_blank"><img alt="Strapi.io" width="80" height="65" src="https://strapi.io/assets/strapi-logo-light.svg"/></a>
+ <a href="https://stackoverflow.com/" target="_blank"><img alt="Git" width="55" height="55" src="https://skillicons.dev/icons?i=stackoverflow"/></a>
 
 </p>
 
@@ -102,7 +109,7 @@
 
 <p align="center">
   <a href="https://github.com/Sheryoo">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sheryoo&theme=radical&border=7F3FBF&background=0D1117" alt="Sheryoo's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sheryoo&theme=radical&border=7F3FBF&background=0D1117&hide_current_streak=true&hide_longest_streak=true" alt="Sheryoo's GitHub streak"/>
   </a>
 </p>
 
