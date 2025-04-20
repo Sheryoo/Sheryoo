@@ -10,7 +10,7 @@
 
 <h1 align="center">Hi There<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sherif Shaaban</h1>
 <p align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Software+Engineer;2+Years+Experice;Aspiring+Learner&center=true&width=500&height=50"></a>
+  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Software+Engineer;2+Years+Experience;Aspiring+Learner&center=true&width=500&height=50"></a>
 </p>
 
 <br/>
