@@ -81,7 +81,7 @@
 ## Top Open Source -
 
 [![Chaty](https://github-readme-stats.vercel.app/api/pin/?username=Sheryoo&repo=Chaty-Real-time&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Sheryoo/Chaty-Real-time)
-[![EShop](https://github-readme-stats.vercel.app/api/pin/?username=Sheryoo&repo=Full-EShop-API&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Sheryoo/Full-EShop-API)
+[![EShop](https://github-readme-stats.vercel.app/api/pin/?username=Sheryoo&repo=EShop-API&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Sheryoo/EShop-API)
 [![Social API](https://github-readme-stats.vercel.app/api/pin/?username=Sheryoo&repo=Social-Media-API&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Sheryoo/Social-Media-API)
 [![Sheryoo Readme](https://github-readme-stats.vercel.app/api/pin/?username=Sheryoo&repo=Sheryoo&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Sheryoo/Sheryoo)
 
