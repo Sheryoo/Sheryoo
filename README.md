@@ -1,128 +1,147 @@
-<a href="https://komarev.com/ghpvc/?username=Sheryoo">
-  <img align="right" src="https://komarev.com/ghpvc/?username=Sheryoo&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
-
-[![wakatime](https://wakatime.com/badge/user/018d4238-fc58-43be-b8ab-079f57bb2012.svg)](https://wakatime.com/@018d4238-fc58-43be-b8ab-079f57bb2012)
-
-<a href="https://github.com/Sheryoo">
- <img src="https://github.githubassets.com/images/modules/site/social-cards/github-social.png" />
-</a>
-
-<h1 align="center">Hi There<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sherif Shaaban</h1>
+<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <p align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Software+Engineer;2+Years+Experience;Aspiring+Learner&center=true&width=500&height=50"></a>
-</p>
-
-<br/>
-<hr/>
-<br/>
-
-## 🙋‍♂️ About me
-
-<p>
-  <img align="right" width="350" src="https://github.com/alsiam/alsiam/blob/main/assets/programmer.gif" alt="Coding gif" />
-
-✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
-
-❤️ &emsp; Love to writing code and learning new features<br/><br/>
-
-🌱 &emsp; Try to improve myself by solving problems on LeetCode, reading books, and more 💪<br/><br/>
-
-🌱 &emsp; Back-End developing using Node.js and Django💪<br/><br/>
-
-🌱 &emsp; Front-End developing using React.js 💪<br/><br/>
-
-</p>
-
-<br/>
-<hr/>
-<br/>
-
-## 🚀 Languages & Tools:
-
-<p align="center"> 
- <a href="https://www.javascript.com/" style="padding-right:8px;" href="#" target="_blank"> <img src="https://techstack-generator.vercel.app/js-icon.svg" width="80" height="80"/></a>
- <a href="https://www.typescript.com/" style="padding-right:8px;" href="#" target="_blank"> <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="80" height="80"/></a>
- <a href="https://www.python.org" target="_blank"> <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" height="60"/></a>
- <a href="https://nodejs.org/en" target="_blank"><img alt="Node.js" width="55" height="55" src="https://skillicons.dev/icons?i=nodejs"/></a>
- <a href="https://www.npmjs.com/" target="_blank"><img alt="Npm" width="55" height="55" src="https://skillicons.dev/icons?i=npm"/></a>
- <a href="https://yarnpkg.com/" target="_blank"><img alt="Yarn" width="55" height="55" src="https://skillicons.dev/icons?i=yarn"/></a>
- <a href="https://expressjs.com/" target="_blank"><img alt="Express.js" width="55" height="55" src="https://skillicons.dev/icons?i=express"/></a>
- <a href="https://strapi.io" target="_blank"><img alt="Strapi.io" width="80" height="65" src="https://strapi.io/assets/strapi-logo-light.svg"/></a>
- <a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" width="55" height="55" src="https://skillicons.dev/icons?i=mongodb"/></a>
- <a href="https://sequelize.org/" target="_blank"><img alt="Squelize" width="55" height="55" src="https://skillicons.dev/icons?i=sequelize"/></a>
- <a href="https://www.docker.com/" target="_blank"> <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="60" height="60" /></a>
- <a href="https://react.dev/" target="_blank"><img alt="React.js" width="60" height="60" src="https://techstack-generator.vercel.app/react-icon.svg"/></a>
- <a href="https://prettier.io/" target="_blank"><img alt="Prettier" src="https://techstack-generator.vercel.app/prettier-icon.svg" width="60" height="60" /></a>
- <a href="https://github.com/" target="_blank"><img alt="Github" src="https://techstack-generator.vercel.app/github-icon.svg" width="60" height="60" /></a>
- <a href="https://restfulapi.net/" target="_blank"><img alt="RestAPI" src="https://techstack-generator.vercel.app/restapi-icon.svg" width="80" height="80" /></a>
- <a href="https://graphql.org/" target="_blank"><img alt="GraphQL" src="https://techstack-generator.vercel.app/graphql-icon.svg" width="60" height="60" /></a>
- <a href="https://www.postgresql.org/" target="_blank"><img alt="Postgresql" width="60" height="60" <img src="https://skillicons.dev/icons?i=postgres"/></a>
- <a href="https://www.sqlite.org/" target="_blank"><img alt="Sqlite" width="60" height="60" <img src="https://skillicons.dev/icons?i=sqlite"/></a>
- <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="80" height="80"/></a> 
- <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://techstack-generator.vercel.app/django-icon.svg" width="60" height="60"/></a>
- <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"><img alt="Flask" width="60" height="60" <img src="https://skillicons.dev/icons?i=flask"/></a>
- <a style="padding-right:8px;" href="#" target="_blank"> <img width="55" height="55" src="https://skillicons.dev/icons?i=html"/></a>
- <a style="padding-right:8px;" href="#" target="_blank"><img width="55" height="55" src="https://skillicons.dev/icons?i=css"/></a>
- <a href="https://getbootstrap.com/" target="_blank"><img alt="Bootstrap" width="55" height="55" src="https://skillicons.dev/icons?i=bootstrap"/></a>
- <a href="https://tailwindcss.com/" target="_blank"><img alt="Tailwind" width="55" height="55" src="https://skillicons.dev/icons?i=tailwind"/></a>
- <a href="https://code.visualstudio.com/" target="_blank"><img alt="VSCode" width="55" height="55" src="https://skillicons.dev/icons?i=vscode"/></a>
- <a href="https://postman.com" target="_blank"><img alt="Postman" width="55" height="55" src="https://skillicons.dev/icons?i=postman"/></a>
- <a href="https://gitlab" target="_blank"><img alt="Gitlab" width="55" height="55" src="https://skillicons.dev/icons?i=gitlab"/></a>
- <a href="https://git-scm.com/" target="_blank"><img alt="Git" width="55" height="55" src="https://skillicons.dev/icons?i=git"/></a>
- <a href="https://stackoverflow.com/" target="_blank"><img alt="Git" width="55" height="55" src="https://skillicons.dev/icons?i=stackoverflow"/></a>
-
-</p>
-
-<br/>
-<hr/>
-<br/>
-
-## Top Open Source -
-
-[![Chaty](https://github-readme-stats.vercel.app/api/pin/?username=Sheryoo&repo=Chaty-Real-time&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Sheryoo/Chaty-Real-time)
-[![EShop](https://github-readme-stats.vercel.app/api/pin/?username=Sheryoo&repo=EShop-API&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Sheryoo/EShop-API)
-[![Social API](https://github-readme-stats.vercel.app/api/pin/?username=Sheryoo&repo=Social-Media-API&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Sheryoo/Social-Media-API)
-[![Sheryoo Readme](https://github-readme-stats.vercel.app/api/pin/?username=Sheryoo&repo=Sheryoo&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Sheryoo/Sheryoo)
-
-<p align="left">
-  <a href="https://github.com/Sheryoo?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-
-<br/>
-<hr/>
-<br/>
-
-## Find me at:
-<p align="center">
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-</p>
-<p align="center">
- <a href = "https://www.linkedin.com/in/sherif-shaaban-377217224/" target="_blank"><img width="60" height="60" src="https://skillicons.dev/icons?i=linkedin"/></a> &nbsp; &nbsp;
- <a href = "https://www.instagram.com/sheryoo0/" target="_blank"><img width="60" height="60" alt="Insta" src="https://skillicons.dev/icons?i=instagram"/></a> &nbsp; &nbsp;
- <a href = "https://www.facebook.com/sherif.shaaban.31105/" target="_blank"><img width="60" height="60" alt="Facebook" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"/></a> &nbsp; &nbsp;
-</p>
-
-<br/>
-<hr/>
-<br/>
-
-<p align="center">
-  <a href="https://github.com/Sheryoo">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sheryoo&theme=radical&border=7F3FBF&background=0D1117&hide_current_streak=true&hide_longest_streak=true" alt="Sheryoo's GitHub streak"/>
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:3B1E6E,100:7F3FBF&height=220&section=header&text=Sherif%20Shaaban&fontSize=60&fontColor=E6EDF3&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Back-End%20Developer&descAlignY=58&descSize=18" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Sheryoo">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sheryoo&theme=radical" alt="Sheryoo's GitHub Contribution"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=620&lines=4%2B+Years+Building+Production+Backends;Node.js+%E2%80%A2+TypeScript+%E2%80%A2+Strapi+%E2%80%A2+Python;Open+Source+Contributor;Shipping+AI-Powered+Systems" alt="Typing SVG" />
   </a>
 </p>
 
-<a> 
-    <a href="https://github.com/Sheryoo"><img alt="Sheryoo's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Sheryoo&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/Sheryoo"><img alt="Sheryoo's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Sheryoo&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sheryoo&label=Profile%20Views&color=7F3FBF&style=flat-square" alt="Profile views" />
+  <a href="https://wakatime.com/@018d4238-fc58-43be-b8ab-079f57bb2012"><img src="https://wakatime.com/badge/user/018d4238-fc58-43be-b8ab-079f57bb2012.svg?style=flat-square" alt="WakaTime" /></a>
+  <img src="https://img.shields.io/badge/Location-Cairo%2C%20Egypt-7F3FBF?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-22C55E?style=flat-square" alt="Open to collaboration" />
+</p>
+
+---
+
+## ⚡ About Me
+
+```ts
+const sherif = {
+  role:        ["AI Engineer", "Back-End Developer"],
+  experience:  "4+ years",
+  basedIn:     "Cairo, Egypt 🇪🇬",
+  currently:   "Building backend systems @ Your Project 🇨🇭",
+  focus:       ["Scalable APIs", "Database-layer design", "Third-party integrations", "AI-powered features"],
+  openSource:  "Contributing to and maintaining open source projects",
+  philosophy:  "Pragmatic > clever. Ship simple, well-tested systems.",
+};
+```
+
+- 🛠️ Design and build **production-grade backends** with Node.js, TypeScript, Strapi, Django and Flask
+- 🔌 Deep work on **custom controllers, DB-layer extensions and external API integrations**
+- 🌍 Active **open source contributor** — reviewing, fixing and shipping PRs in the community
+- 🤖 Integrating **AI/LLM capabilities** into real-world products
+- 📚 Sharpening problem-solving through LeetCode, books and side projects
+
+---
+
+## 🧬 Tech Stack
+
+<h4 align="center">Languages</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,html,css&theme=dark" />
+</p>
+
+<h4 align="center">Backend & Frameworks</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,graphql&theme=dark" />
   <br/>
-</a>
+  <img src="https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logo=strapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-0D1117?style=for-the-badge&logo=openapiinitiative&logoColor=A78BFA" />
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" />
+</p>
 
-![Sheryoo's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sheryoo&custom_title=Sheryoo's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<h4 align="center">Databases</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite&theme=dark" />
+</p>
+
+<h4 align="center">Frontend</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap&theme=dark" />
+</p>
+
+<h4 align="center">DevOps & Tools</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,postman,vscode,npm,yarn&theme=dark" />
+</p>
+
+---
+
+## 🌐 Open Source
+
+I believe great software is built in the open. Alongside my own projects, I contribute fixes, features and reviews to open source repositories.
+
+<!-- ✏️ Add your contributions here, e.g.:
+- **[org/repo](https://github.com/org/repo)** — short description of what you contributed ([PR #123](https://github.com/org/repo/pull/123))
+-->
+
+### 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/Sheryoo/Chaty-Real-time">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sheryoo&repo=Chaty-Real-time&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7F3FBF" />
+  </a>
+  <a href="https://github.com/Sheryoo/EShop-API">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sheryoo&repo=EShop-API&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7F3FBF" />
+  </a>
+  <a href="https://github.com/Sheryoo/Social-Media-API">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sheryoo&repo=Social-Media-API&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7F3FBF" />
+  </a>
+  <a href="https://github.com/Sheryoo/Todo-List">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sheryoo&repo=Todo-List&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7F3FBF" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Sheryoo?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20All%20Repos-7F3FBF?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sheryoo&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7F3FBF" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheryoo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Sheryoo&theme=tokyonight&hide_border=true&background=0D1117&ring=7F3FBF&fire=A78BFA&currStreakLabel=A78BFA" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sheryoo&bg_color=0D1117&color=A78BFA&line=7F3FBF&point=E6EDF3&area=true&area_color=7F3FBF&hide_border=true&custom_title=Contribution%20Activity" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sheryoo/Sheryoo/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sheryoo/Sheryoo/output/github-snake.svg" />
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Sheryoo/Sheryoo/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sherif-shaaban-377217224/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/sheryoo0"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://linktr.ee/Sheryoo"><img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" /></a>
+</p>
+
+<p align="center"><i>Always happy to talk backend architecture, open source, or AI — feel free to reach out.</i></p>
+
+<!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F3FBF,50:3B1E6E,100:0D1117&height=120&section=footer" width="100%" />
+</p>
