@@ -34,8 +34,10 @@ const sherif = {
 
 - 🛠️ Design and build **production-grade backends** with Node.js, TypeScript, Strapi, Django and Flask
 - 🔌 Deep work on **custom controllers, DB-layer extensions and external API integrations**
+- 💳 Built **Apple Wallet & Google Wallet** pass integrations
+- 🧪 Ship with confidence using **Vitest, Jest and Playwright** plus security scanning in CI
 - 🌍 Active **open source contributor** — reviewing, fixing and shipping PRs in the community
-- 🤖 Integrating **AI/LLM capabilities** into real-world products
+- 🤖 Integrating **AI/LLM capabilities** (Claude, ChatGPT) into real-world products
 - 📚 Sharpening problem-solving through LeetCode, books and side projects
 
 ---
@@ -49,16 +51,67 @@ const sherif = {
 
 <h4 align="center">Backend & Frameworks</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,graphql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,graphql,prisma&theme=dark" />
   <br/>
   <img src="https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logo=strapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-0D1117?style=for-the-badge&logo=openapiinitiative&logoColor=A78BFA" />
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-0D1117?style=for-the-badge&logo=openapiinitiative&logoColor=A78BFA" />
+  <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Knex.js-D26B38?style=for-the-badge&logo=knexdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zod-408AFF?style=for-the-badge&logo=zod&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Passport-34E27A?style=for-the-badge&logo=passport&logoColor=white" />
+  <img src="https://img.shields.io/badge/BullMQ-E5242A?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
 </p>
 
-<h4 align="center">Databases</h4>
+<h4 align="center">Databases & Caching</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis&theme=dark" />
+  <br/>
+  <img src="https://img.shields.io/badge/Valkey-6E54C3?style=for-the-badge&logoColor=white" />
+</p>
+
+<h4 align="center">AI & LLMs</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logoColor=white" />
+</p>
+
+<h4 align="center">Testing & Quality</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vitest,jest&theme=dark" />
+  <br/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/OSV--Scanner-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lefthook-FF1E1E?style=for-the-badge&logo=lefthook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Husky-42B983?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
+</p>
+
+<h4 align="center">DevOps & Infrastructure</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,nginx,rabbitmq,git,github,githubactions,gitlab&theme=dark" />
+  <br/>
+  <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mailpit-2C3E50?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/mise-6B4FBB?style=for-the-badge&logoColor=white" />
+</p>
+
+<h4 align="center">Integrations</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Apple%20Wallet-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Wallet-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seats.io-1E5EFF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Polotno-2B2D42?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/uLayer-4A4E69?style=for-the-badge&logoColor=white" />
 </p>
 
 <h4 align="center">Frontend</h4>
@@ -66,9 +119,9 @@ const sherif = {
   <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap&theme=dark" />
 </p>
 
-<h4 align="center">DevOps & Tools</h4>
+<h4 align="center">Tools</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,postman,vscode,npm,yarn&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postman,vscode,npm,yarn&theme=dark" />
 </p>
 
 ---
