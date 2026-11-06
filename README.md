@@ -136,20 +136,44 @@ I believe great software is built in the open. Alongside my own projects, I cont
 
 ### 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Sheryoo/Chaty-Real-time">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sheryoo&repo=Chaty-Real-time&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7F3FBF" />
-  </a>
-  <a href="https://github.com/Sheryoo/EShop-API">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sheryoo&repo=EShop-API&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7F3FBF" />
-  </a>
-  <a href="https://github.com/Sheryoo/Social-Media-API">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sheryoo&repo=Social-Media-API&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7F3FBF" />
-  </a>
-  <a href="https://github.com/Sheryoo/Todo-List">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sheryoo&repo=Todo-List&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7F3FBF" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Sheryoo/Chaty-Real-time">💬 Chaty-Real-time</a></h3>
+      <p>Real-time chat app with Socket.IO, live messaging and a React client.</p>
+      <p><sub><b>Node.js · React · Socket.IO · SQLite</b></sub></p>
+      <a href="https://github.com/Sheryoo/Chaty-Real-time"><img src="https://img.shields.io/github/stars/Sheryoo/Chaty-Real-time?style=flat-square&color=7F3FBF&labelColor=0D1117" /></a>
+      <a href="https://github.com/Sheryoo/Chaty-Real-time"><img src="https://img.shields.io/github/languages/top/Sheryoo/Chaty-Real-time?style=flat-square&color=A78BFA&labelColor=0D1117" /></a>
+      <a href="https://github.com/Sheryoo/Chaty-Real-time"><img src="https://img.shields.io/github/last-commit/Sheryoo/Chaty-Real-time?style=flat-square&color=3B1E6E&labelColor=0D1117" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Sheryoo/EShop-API">🛒 EShop-API</a></h3>
+      <p>E-commerce REST API: products, carts, orders and auth.</p>
+      <p><sub><b>Node.js · REST API</b></sub></p>
+      <a href="https://github.com/Sheryoo/EShop-API"><img src="https://img.shields.io/github/stars/Sheryoo/EShop-API?style=flat-square&color=7F3FBF&labelColor=0D1117" /></a>
+      <a href="https://github.com/Sheryoo/EShop-API"><img src="https://img.shields.io/github/languages/top/Sheryoo/EShop-API?style=flat-square&color=A78BFA&labelColor=0D1117" /></a>
+      <a href="https://github.com/Sheryoo/EShop-API"><img src="https://img.shields.io/github/last-commit/Sheryoo/EShop-API?style=flat-square&color=3B1E6E&labelColor=0D1117" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Sheryoo/Social-Media-API">🌐 Social-Media-API</a></h3>
+      <p>Full social media backend: users, posts, comments and follows.</p>
+      <p><sub><b>Node.js · REST API</b></sub></p>
+      <a href="https://github.com/Sheryoo/Social-Media-API"><img src="https://img.shields.io/github/stars/Sheryoo/Social-Media-API?style=flat-square&color=7F3FBF&labelColor=0D1117" /></a>
+      <a href="https://github.com/Sheryoo/Social-Media-API"><img src="https://img.shields.io/github/languages/top/Sheryoo/Social-Media-API?style=flat-square&color=A78BFA&labelColor=0D1117" /></a>
+      <a href="https://github.com/Sheryoo/Social-Media-API"><img src="https://img.shields.io/github/last-commit/Sheryoo/Social-Media-API?style=flat-square&color=3B1E6E&labelColor=0D1117" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Sheryoo/Todo-List">✅ Todo-List</a></h3>
+      <p>Task manager app backed by MongoDB.</p>
+      <p><sub><b>Node.js · MongoDB</b></sub></p>
+      <a href="https://github.com/Sheryoo/Todo-List"><img src="https://img.shields.io/github/stars/Sheryoo/Todo-List?style=flat-square&color=7F3FBF&labelColor=0D1117" /></a>
+      <a href="https://github.com/Sheryoo/Todo-List"><img src="https://img.shields.io/github/languages/top/Sheryoo/Todo-List?style=flat-square&color=A78BFA&labelColor=0D1117" /></a>
+      <a href="https://github.com/Sheryoo/Todo-List"><img src="https://img.shields.io/github/last-commit/Sheryoo/Todo-List?style=flat-square&color=3B1E6E&labelColor=0D1117" /></a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/Sheryoo?tab=repositories">
@@ -162,16 +186,12 @@ I believe great software is built in the open. Alongside my own projects, I cont
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sheryoo&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7F3FBF" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheryoo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" />
+  <img height="170" src="https://raw.githubusercontent.com/Sheryoo/Sheryoo/output/stats.svg" alt="GitHub stats" />
+  <img height="170" src="https://raw.githubusercontent.com/Sheryoo/Sheryoo/output/top-langs.svg" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Sheryoo&theme=tokyonight&hide_border=true&background=0D1117&ring=7F3FBF&fire=A78BFA&currStreakLabel=A78BFA" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sheryoo&bg_color=0D1117&color=A78BFA&line=7F3FBF&point=E6EDF3&area=true&area_color=7F3FBF&hide_border=true&custom_title=Contribution%20Activity" />
+  <img src="https://streak-stats.demolab.com/?user=Sheryoo&theme=tokyonight&hide_border=true&background=0D1117&ring=7F3FBF&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub streak" />
 </p>
 
 <p align="center">
